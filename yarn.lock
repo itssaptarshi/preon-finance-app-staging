@@ -9459,12 +9459,12 @@ eyes@^0.1.8:
   resolved "https://registry.yarnpkg.com/eyes/-/eyes-0.1.8.tgz#62cf120234c683785d902348a800ef3e0cc20bc0"
   integrity sha1-Ys8SAjTGg3hdkCNIqADvPgzCC8A=
 
-fast-check@2.13.0:
-  version "2.13.0"
-  resolved "https://registry.yarnpkg.com/fast-check/-/fast-check-2.13.0.tgz#92a50a6a39b58760d4b0b52b12f98f28a9f020f6"
-  integrity sha512-IOfzKm/SCA+jpUEgAfqAuxHYPmgtmpnnwljQmYPRGrqYczcTKApXKHza/SNxFxYkecWfZilYa0DJdBvqz1bcSw==
+fast-check@3.12.0:
+  version "3.12.0"
+  resolved "https://registry.yarnpkg.com/fast-check/-/fast-check-3.12.0.tgz#440949277387a053f7f82cd532fa3fcf67346ba1"
+  integrity sha512-SqahE9mlL3+lhjJ39joMLwcj6F+24hfZdf/tchlNO8sHcTdrUUdA5P/ZbSFZM9Xpzs36XaneGwE0FWepm/zyOA==
   dependencies:
-    pure-rand "^4.1.1"
+    pure-rand "^6.0.0"
 
 fast-deep-equal@^3.1.1:
   version "3.1.3"
@@ -16620,10 +16620,10 @@ punycode@^2.1.0, punycode@^2.1.1:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
   integrity sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==
 
-pure-rand@^4.1.1:
-  version "4.1.2"
-  resolved "https://registry.yarnpkg.com/pure-rand/-/pure-rand-4.1.2.tgz#cbad2a3e3ea6df0a8d80d8ba204779b5679a5205"
-  integrity sha512-uLzZpQWfroIqyFWmX/pl0OL2JHJdoU3dbh0dvZ25fChHFJJi56J5oQZhW6QgbT2Llwh1upki84LnTwlZvsungA==
+pure-rand@^6.0.0:
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/pure-rand/-/pure-rand-6.0.2.tgz#a9c2ddcae9b68d736a8163036f088a2781c8b306"
+  integrity sha512-6Yg0ekpKICSjPswYOuC5sku/TSWaRYlA0qsXqJgM/d/4pLPHPuTxK7Nbf7jFKzAeedUhR8C7K9Uv63FBsSo8xQ==
 
 q@^1.1.2, q@^1.5.1:
   version "1.5.1"
